@@ -28,8 +28,4 @@ The main purpose of this project is to help users track their workouts in a simp
 This project also includes a social page where users will eventually be able to interact with others. I am currently working on improving the social page and making the workout entry process faster and easier to use. I am also continuing to refine the layout and user experience so the app feels more practical and polished.
 
 ## Screenshot
-
-
-
-```md
-
+![My Workout Tracker Screenshot](image1.png)
