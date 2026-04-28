@@ -1,6 +1,6 @@
 # My Workout Tracker
 
-My Workout Tracker is a full-stack web application that allows users to create an account, log in, and track their workout progress. The project includes a sign-up system, secure password handling, and user login functionality. Once logged in, users can access pages for workout tracking, social interaction, and general app navigation.
+My Workout Tracker is a full-stack web application that allows users to create an account, log in, and track their workouts. The project includes a sign-up system, secure password handling, and user login functionality. Once logged in, users can access pages for workout tracking, social interaction, and general app navigation.
 
 ## Features
 
@@ -29,7 +29,7 @@ This project also includes a social page where users will eventually be able to 
 
 ## Screenshot
 
-Add a screenshot of the project here:
+
 
 ```md
-![My Workout Tracker Screenshot](screenshot.png)
+
